@@ -1,0 +1,10 @@
+#ignore all files in the folder tmp
+tmp/
+
+#ignore by endidng
+**/*_old
+**/*_backup
+
+#ignore by file name, independetly by folder
+Thumbs.db
+.DS_Store
